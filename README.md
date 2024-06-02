@@ -53,7 +53,7 @@ const B = [
 // Multiplication de matrices
 const product = matematico.matrix.multiplyMatrices(A, B);
 console.log('Produit des matrices A et B :');
-matematiko.matrix.printMatrix(product);
+matematico.matrix.printMatrix(product);
 
 // Transposition d'une matrice
 const transposed = matematico.matrix.transposeMatrix(A);
