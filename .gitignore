@@ -1,0 +1,12 @@
+# Pour les fichiers de configuration locaux
+.env
+node_modules/
+npm-debug.log
+
+# Pour le fichier de sauvegarde
+*.bak
+*.swp
+*~
+
+# Pour le fichier de verrouillage de package
+package-lock.json

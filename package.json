@@ -1,0 +1,26 @@
+{
+  "name": "matematico",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0" 
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiavina22/matematico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiavina22/matematico/issues"
+  },
+  "homepage": "https://github.com/Tiavina22/matematico#readme"
+}
