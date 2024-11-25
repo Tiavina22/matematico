@@ -1,4 +1,4 @@
-# matematico 📐 
+# Matematico
 Un module Node.js open source pour résoudre divers problèmes mathématiques 🧮, incluant les opérations sur les matrices 🟩 et l'intégration numérique 🔢. Parfait pour les étudiants 🎓, les professionnels 💼, et les amateurs de mathématiques 📊.
 
 # Description
