@@ -7,7 +7,7 @@ Ce module Node.js permet d'effectuer diverses opérations sur les matrices, tell
 Le but de ce module n'est pas seulement de résoudre les problèmes mathématiques rencontrés à l'université, au quotidien ou ailleurs, mais aussi de vous aider à vérifier les résultats de vos opérations en intégrant Matematiko.
 
 # Initialisation
-Créer votre projet, puis rendre dans votre projet, un coup de npm init pour l'initialiser
+Créer votre projet, puis rendre dans votre projet, un coup de npm init pour l'initialiser 
 ```bash
 $    mkdir nom_projet
 $    cd nom_projet
