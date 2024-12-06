@@ -74,24 +74,3 @@ console.log('Intégrale de la fonction x^2 de 0 à 1 :', integral);
 ```bash
 $    node app.js
 ```
-
-Updated on: 2024-12-06T04:53:53.987Z
-Updated on: 2024-12-06T04:53:56.973Z
-Updated on: 2024-12-06T04:53:59.987Z
-Updated on: 2024-12-06T04:54:02.979Z
-Updated on: 2024-12-06T04:54:05.974Z
-Updated on: 2024-12-06T04:54:08.982Z
-Updated on: 2024-12-06T04:54:11.976Z
-Updated on: 2024-12-06T04:54:14.972Z
-Updated on: 2024-12-06T04:54:17.975Z
-Updated on: 2024-12-06T04:54:20.973Z
-Updated on: 2024-12-06T04:54:23.977Z
-Updated on: 2024-12-06T04:54:26.984Z
-Updated on: 2024-12-06T04:54:29.972Z
-Updated on: 2024-12-06T04:54:32.975Z
-Updated on: 2024-12-06T04:54:35.977Z
-Updated on: 2024-12-06T04:54:38.976Z
-Updated on: 2024-12-06T04:54:41.990Z
-Updated on: 2024-12-06T04:54:44.984Z
-Updated on: 2024-12-06T04:54:47.981Z
-Updated on: 2024-12-06T04:54:50.972Z
